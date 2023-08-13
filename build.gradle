@@ -5,8 +5,8 @@ plugins {
 	id 'maven-publish'
 }
 
-group = 'com.fluidnitions'
-version = '0.0.1-SNAPSHOT'
+group = 'com.fluidnotions'
+version = '0.0.1'
 
 java {
 	sourceCompatibility = '17'
