@@ -1,4 +1,4 @@
-package com.fluidnitions.springwebcontrollerexceptionhandler;
+package com.fluidnotions.globalexceptionhandler;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpHeaders;

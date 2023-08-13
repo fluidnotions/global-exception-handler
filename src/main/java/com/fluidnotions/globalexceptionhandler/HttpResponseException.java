@@ -1,4 +1,4 @@
-package com.fluidnitions.springwebcontrollerexceptionhandler;
+package com.fluidnotions.globalexceptionhandler;
 
 import org.springframework.http.HttpStatus;
 
